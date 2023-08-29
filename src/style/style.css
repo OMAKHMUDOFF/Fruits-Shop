@@ -233,9 +233,9 @@ button {
   /* transition: 0.3s; */
 }
 
-.leftBot .links li a:hover {
+.leftBot .links li a:hover,
+.topFooter .leftFooter .links li a:hover {
   color: #7fad39;
-  font-size: 16px;
 }
 
 .leftBot .categories p {
